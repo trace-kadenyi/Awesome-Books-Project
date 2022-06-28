@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 250px;
+    padding: 10px;
+}
+input {
+    margin: 10px 0;
+    padding: 10px;
+}
+.add {
+    padding: 10px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    width: 50px;
+}
+p {
+    font-style: italic;
+}
+hr {
+    color: blue;
+}
+h3 {
+    margin-bottom: 5px;
+    font-size: 20px;
+    color: brown;
+}
+.myBook {
+    margin-top: 10px;
+}
+hr {
+    margin: 5px;
+}
+.remove {
+    padding: 5px;
+}
